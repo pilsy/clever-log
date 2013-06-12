@@ -1,0 +1,26 @@
+{
+    "name": "clever-log",
+    "version": "0.1.1",
+    "private": false,
+    "scripts": {
+        "test": "mocha --require should --reporter spec"
+    },
+    "dependencies": {
+        "uberclass": "",
+        "pad": ""
+    },
+    "devDependencies": {
+        "mocha": "*",
+        "should": "*",
+        "sinon": "*"
+    },
+    "author": {
+        "name": "Richard Gustin (PilsY)",
+        "email": "richard@clevertech.biz"
+    },
+    "description": "",
+    "keywords": [
+        "log",
+        "logging"
+    ]
+}
